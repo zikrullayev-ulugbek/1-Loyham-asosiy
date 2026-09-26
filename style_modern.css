@@ -1017,7 +1017,8 @@ nav h2 span,
 .copyright {
   border-top: 1px solid var(--line);
   padding-top: 20px;
-  color: #5e6673;
+  /* color: #5e6673; */
+  color: #fff;
   font-size: 10px;
   text-align: center;
 }
